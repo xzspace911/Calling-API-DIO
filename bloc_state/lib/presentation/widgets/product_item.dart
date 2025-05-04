@@ -30,7 +30,7 @@ class ProductItem extends StatelessWidget {
               color: XColors.white,
               fontWeight: FontWeight.bold,
             ),
-            overflow: TextOverflow.ellipsis, // if the name is tall 
+            overflow: TextOverflow.ellipsis, // if the name is tall
             maxLines: 2,
             textAlign: TextAlign.center,
           ),
